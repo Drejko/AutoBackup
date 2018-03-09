@@ -4,9 +4,6 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
 
-apply plugin: 'com.google.android.gms:play-services-auth:11.8.0'
-apply plugin: 'com.google.android.gms:play-services-drive:11.8.0'
-
 
 android {
     compileSdkVersion 26
